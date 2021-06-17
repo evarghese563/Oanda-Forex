@@ -8,6 +8,8 @@ A python application that can take values from the foreign exhange market and vi
 
 ## EUR-USD Example
 [picture alt](https://imgur.com/a/Ch7nlvq "EUR-USD traded prices")
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png?raw=true)
+https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png
 
 [picture alt](https://imgur.com/a/vB9ddAg/200x150 "Title is optional")
