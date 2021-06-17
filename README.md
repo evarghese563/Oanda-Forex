@@ -6,10 +6,9 @@ A python application that can take values from the foreign exhange market and vi
   - Stores the the last traded price (ltp) for the ticker in a JSON dump file
   - Visualizes the prices for the ticker through out the day on a line graph
 
-## EUR-USD Example
-[picture alt](https://imgur.com/a/Ch7nlvq "EUR-USD traded prices")
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png?raw=true)
-https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png
+## EUR-USD April 22, 2021
 
-[picture alt](https://imgur.com/a/vB9ddAg/200x150 "Title is optional")
+![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png?raw=true)
+
+![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/graph%201.png?raw=true)
+
