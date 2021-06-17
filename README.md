@@ -7,7 +7,7 @@ A python application that can take values from the foreign exhange market and vi
   - Visualizes the prices for the ticker through out the day on a line graph
 
 ## EUR-USD Example
-![picture alt](https://imgur.com/a/Ch7nlvq "EUR-USD traded prices")
+[picture alt](https://imgur.com/a/Ch7nlvq "EUR-USD traded prices")
 
 
-![picture alt](https://imgur.com/a/vB9ddAg/200x150 "Title is optional")
+[picture alt](https://imgur.com/a/vB9ddAg/200x150 "Title is optional")
