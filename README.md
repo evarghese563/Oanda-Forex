@@ -9,6 +9,7 @@ A python application that can take values from the foreign exhange market and vi
 ## EUR-USD April 22, 2021
 
 ![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png?raw=true)
+
 The chart of the traded prices for the day for the Euro to US Dollar ticker
 
 
