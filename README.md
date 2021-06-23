@@ -10,19 +10,10 @@ A python application that uses the OANDA API to take the values from the foreign
 
 ## Changing Values
   ### Forex Ticker
-  '{
-   "cell_type": "code",
-   "execution_count": 6,
-   "id": "d95d3dfa",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "#Europe/US\n",
-    "\n",
-    "query = {\"instruments\": \"EUR_USD\"}\n",
-    "headers = {\"Authorization\": \"Bearer \" +  \"ENTER OANDA API KEY\"}"
-   ]
-  }'
+  query = {\"instruments\": \"ENTER TICKER\"}
+  ### Date range
+  from_time = time.mktime(pd.to_datetime(\"ENTER FROM DATE\").timetuple())
+  to_time = time.mktime(pd.to_datetime(\"ENTER TO DATE\").timetuple())
 
 ## EUR-USD 1st Quarter Prices (January - March)
 
