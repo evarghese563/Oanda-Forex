@@ -12,7 +12,7 @@ A python application that uses the OANDA API to take the values from the foreign
   ### Forex Ticker
   query = {\"instruments\": \"ENTER TICKER\"}
   ### Date range
-  from_time = time.mktime(pd.to_datetime(\"ENTER FROM DATE\").timetuple())
+  from_time = time.mktime(pd.to_datetime(\"ENTER FROM DATE\").timetuple()) \n
   to_time = time.mktime(pd.to_datetime(\"ENTER TO DATE\").timetuple())
 
 ## EUR-USD 1st Quarter Prices (January - March)
