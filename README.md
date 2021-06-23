@@ -10,7 +10,7 @@ A python application that uses the OANDA API to take the values from the foreign
 
 ## Changing Values
   ### Forex Ticker
-  {
+  '{
    "cell_type": "code",
    "execution_count": 6,
    "id": "d95d3dfa",
@@ -22,7 +22,7 @@ A python application that uses the OANDA API to take the values from the foreign
     "query = {\"instruments\": \"EUR_USD\"}\n",
     "headers = {\"Authorization\": \"Bearer \" +  \"ENTER OANDA API KEY\"}"
    ]
-  }
+  }'
 
 ## EUR-USD 1st Quarter Prices (January - March)
 
