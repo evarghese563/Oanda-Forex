@@ -28,4 +28,4 @@ This is a chart of all the Opening, Closing, High and Low prices for the ticker 
 This is a Candlestick Chart of the 1st Quarter Data of the EUR-USD ticker. This chart was plotted by using the Matplotlib Finance API.
 
 ## IMPORTANT NOTE
-This code will not run without the OANDA Account ID and the API key that is given to you from OANDA by making an account with them. Due to security reason I have taken out my Account ID and API key but I have marked the locations where the key and Account ID should be placed.
+This code will not run without the OANDA Account ID and the API key that is given to you from OANDA by making an account with them. Due to security reason I have taken out my Account ID and API key but I have marked the locations where the key and Account ID should be placed. An Internet connection is also required to get the values from the OANDA API.
