@@ -4,8 +4,8 @@ A python application that uses the OANDA API to take the values from the foreign
 
 
 ## This application:
-  - Is able to take the Forex Ticker prices
-  - Stores the the last traded price (ltp) for the ticker in a JSON dump file
+  - Is able to read any Forex Ticker
+  - Stores the the last traded price (ltp) for the ticker and store it in a JSON dump file
   - Visualizes the prices for the the selected ticker for any time frame
 
 ## Changing Values
