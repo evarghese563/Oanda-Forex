@@ -1,19 +1,19 @@
 # Oanda Forex
-A python application that can take values from the foreign exhange market and visualize the data. The program uses an API that was given from OANDA for taking in the ticker and ticker prices.
+A python application that uses the OANDA API to take the values from the foreign exhange market and visualize the data.
 
 ## This application:
   - Is able to take the Forex Ticker prices
   - Stores the the last traded price (ltp) for the ticker in a JSON dump file
-  - Visualizes the prices for the ticker through out the day on a line graph
+  - Visualizes the prices for the the selected ticker for any time frame
 
-## EUR-USD April 22, 2021
+## EUR-USD 1st Quarter Prices (January - March)
 
-![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/chart%202.png?raw=true)
+![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/Images/prices.png?raw=true)
 
 The chart of the traded prices on April 22, 2021 for the Euro to US Dollar ticker
 
 
-![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/graph%201.png?raw=true)
+![alt text](https://github.com/evarghese563/Oanda-Forex/blob/main/Images/Candlestick.png?raw=true)
 
 The graph of the traded prices on April 22, 2021 for the Euro to US Dollar ticker
 
