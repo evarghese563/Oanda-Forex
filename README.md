@@ -8,7 +8,21 @@ A python application that uses the OANDA API to take the values from the foreign
   - Stores the the last traded price (ltp) for the ticker in a JSON dump file
   - Visualizes the prices for the the selected ticker for any time frame
 
-
+## Changing Values
+  ### Forex Ticker
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "d95d3dfa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Europe/US\n",
+    "\n",
+    "query = {\"instruments\": \"EUR_USD\"}\n",
+    "headers = {\"Authorization\": \"Bearer \" +  \"ENTER OANDA API KEY\"}"
+   ]
+  }
 
 ## EUR-USD 1st Quarter Prices (January - March)
 
